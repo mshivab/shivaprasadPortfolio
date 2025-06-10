@@ -198,6 +198,57 @@ a:hover {
   }
 }
 
+@media (max-width: 768px) {
+  .skill-row,
+  .profile,
+  .para,
+  .contact-message {
+    width: 90% !important;
+    text-align: center !important;
+    margin: 20px auto !important;
+    float: none !important;
+    display: block !important;
+  }
+
+  .pic,
+  .pic2,
+  .prof {
+    width: 80% !important;
+    float: none !important;
+    display: block !important;
+    margin: 20px auto !important;
+  }
+
+  .top-cloud,
+  .bottom-cloud {
+    display: none !important;
+  }
+
+  .btn {
+    width: 90%;
+    padding: 12px;
+    font-size: 1rem;
+  }
+
+  .bottom-container a {
+    display: block;
+    margin: 10px auto;
+  }
+
+  h1 {
+    font-size: 2.2rem;
+    line-height: 1.2;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+  }
+
+  h3 {
+    font-size: 1rem;
+  }
+}
+
 
   
 
