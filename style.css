@@ -151,3 +151,10 @@ a:hover {
     text-decoration: none;
   }
 
+.mountain-img {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
