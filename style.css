@@ -151,5 +151,53 @@ a:hover {
     text-decoration: none;
   }
 
+@media (max-width: 768px) {
+  h1 {
+    font-size: 2.5rem;
+    line-height: 1.2;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+  }
+
+  .top-cloud, .bottom-cloud {
+    display: none; /* Hides clouds on small screens */
+  }
+
+  .skill-row {
+    width: 90%;
+    display: block;
+    text-align: center;
+  }
+
+  .pic,
+  .pic2 {
+    float: none;
+    display: block;
+    margin: 20px auto;
+    width: 60%;
+  }
+
+  .para, .contact-message {
+    width: 90%;
+  }
+
+  .prof {
+    width: 50%;
+  }
+
+  .btn {
+    width: 80%;
+    font-size: 18px;
+  }
+
+  .bottom-container a {
+    display: block;
+    margin: 10px auto;
+  }
+}
+
+
   
 
