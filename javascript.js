@@ -5,5 +5,5 @@ function contact()
 
 function disp()
 {
-    alert("Kindly switch to 'Desktop site' mode if you're viewing on mobile Chrome...")
+    alert("Welcome to my portfolio..🙏")
 }
